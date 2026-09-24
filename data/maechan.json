@@ -1,0 +1,17 @@
+{
+  "version": "v1.1.0",
+  "branchId": "maechan",
+  "name": "ศูนย์นกเงือก แม่จัน",
+  "enabled": true,
+  "phones": [
+    {
+      "label": "โทรศัพท์",
+      "phone": "0842265822"
+    },
+    {
+      "label": "โทรศัพท์",
+      "phone": "0842261866"
+    }
+  ],
+  "updatedAt": "2026-09-24T10:53:39.846Z"
+}
